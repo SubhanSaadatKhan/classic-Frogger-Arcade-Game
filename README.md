@@ -1,5 +1,7 @@
 # Frogger Arcade Game
 
+The Frogger game is created using Functional Reactive Programming (FRP) techniques and implemented in TypeScript. I have used RxJS Observable streams to handle animation and user interaction.
+
 ## Features
 
 - Ground Section: Filled with moving cars (in white), trucks (in red). Watch out for cars and trucks that can end your journey! As the level increases, the speed of the cars and trucks increases, making it more challenging to avoid them.
